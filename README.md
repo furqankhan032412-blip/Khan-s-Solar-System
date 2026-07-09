@@ -214,43 +214,46 @@ The visible project flow suggests the following customer journey:
 ## 🏠 Home / Designer Preview
 
 <p align="center">
-  <img src="assets/screenshots/home-designer.png" width="900" alt="Home and Solar Designer Preview">
+ <img width="1899" height="944" alt="image" src="https://github.com/user-attachments/assets/119a7ff3-5513-41a7-94f9-ef7277fb983c" />
+
 </p>
 
 ## 🏢 Commercial Solar Section
 
 <p align="center">
-  <img src="assets/screenshots/commercial.png" width="900" alt="Commercial Solar Section">
-</p>
+ <img width="1900" height="942" alt="image" src="https://github.com/user-attachments/assets/1400c0fc-de81-46d1-96f9-260d65c74a8e" />
 
-## ⚙️ Feature Animation Section
-
-<p align="center">
-  <img src="assets/screenshots/feature-animation.png" width="900" alt="Animated Solar Feature Section">
 </p>
 
 ## 💰 Packages & Pricing
 
 <p align="center">
-  <img src="assets/screenshots/packages.png" width="900" alt="Solar Packages and Pricing">
+ <img width="1898" height="955" alt="image" src="https://github.com/user-attachments/assets/52479d62-f200-4b14-b8c0-f3b2e8a75d2a" />
+
 </p>
 
 ## 📝 Contact & Workflow Form
 
 <p align="center">
-  <img src="assets/screenshots/contact-workflow.png" width="900" alt="Contact and Workflow Form">
+  <img width="1909" height="945" alt="image" src="https://github.com/user-attachments/assets/2a7c5e3f-9fba-480e-b72d-f0898202445c" />
+
 </p>
 
-## 📈 Mission & Impact Stats
+## 📈 Designer
 
 <p align="center">
-  <img src="assets/screenshots/mission-stats.png" width="900" alt="Mission and Stats Section">
+  <img width="1903" height="928" alt="image" src="https://github.com/user-attachments/assets/a3c350dd-7d9a-43de-949b-90e7b3b354cd" />
+
 </p>
 
-## 🔐 Admin Login
+## Demo Video
 
 <p align="center">
-  <img src="assets/screenshots/admin-login.png" width="900" alt="Admin Login Page">
+  
+
+https://github.com/user-attachments/assets/f37b09ed-ac9b-4905-9845-6f4f6141297b
+
+
 </p>
 
 ---
@@ -352,8 +355,8 @@ index.html
 
 ### Connect
 
-- GitHub: `https://github.com/YOUR_USERNAME`
-- LinkedIn: `https://linkedin.com/in/YOUR_PROFILE`
+- GitHub: `https://github.com/furqankhan032412-blip
+- LinkedIn: https://www.linkedin.com/in/furqan-khan-9431253b0
 - Email: `your@email.com`
 
 ---
