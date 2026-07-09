@@ -99,7 +99,8 @@ The platform combines modern UI/UX, powerful analytics, and intelligent solar to
 ## 🏠 Home Page
 
 <p align="center">
-<img src="images/home.png" width="900">
+<img src="<img width="1900" height="928" alt="image" src="https://github.com/user-attachments/assets/2f5ad97d-8291-48b2-9f8a-934616dc0fe2" />
+" width="900">
 </p>
 
 ---
@@ -256,9 +257,8 @@ index.html
 
 ### Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- Email: your@email.com
+- GitHub: https://github.com/furqankhan032412-blip
+- LinkedIn: https://www.linkedin.com/in/furqan-khan-9431253b0
 
 ---
 
