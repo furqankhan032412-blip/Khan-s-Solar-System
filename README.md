@@ -99,8 +99,8 @@ The platform combines modern UI/UX, powerful analytics, and intelligent solar to
 ## 🏠 Home Page
 
 <p align="center">
-<img src="<img width="1900" height="928" alt="image" src="https://github.com/user-attachments/assets/2f5ad97d-8291-48b2-9f8a-934616dc0fe2" />
-" width="900">
+<img width="1900" height="928" alt="image" src="https://github.com/user-attachments/assets/5bf15742-4202-4d01-a68f-0813b5bced2f" />
+
 </p>
 
 ---
